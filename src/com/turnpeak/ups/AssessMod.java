@@ -1,5 +1,5 @@
 package com.turnpeak.ups;
-
+//to change the master branch
 public class AssessMod {
 		private String name = "ajay";
 		public int age = 28;
@@ -29,6 +29,7 @@ public class AssessMod {
     	double persent = (res/200)*100;
     	System.out.println("percentage:" + persent);
     	return persent;
+    	
     }
     
     boolean status() {
