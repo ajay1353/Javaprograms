@@ -38,5 +38,11 @@ public class AssessMod {
     	}
     	return true;
     }
+    public static void main(String[] args) {
+    	AssessMod am2 = new AssessMod();
+    	am2.add();
+    	
+    	
+    }
     
 }
