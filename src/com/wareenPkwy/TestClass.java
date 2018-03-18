@@ -2,7 +2,7 @@ package com.wareenPkwy;
 
 import com.turnpeak.ups.AssessMod;
 
-public class TestKlass {
+public class TestClass {
 	
 	
 	public static void difference() {
@@ -14,7 +14,7 @@ public class TestKlass {
 	public static void main(String[] args) {
 		//TestKlass tk = new TestKlass();
 		AssessMod am2 = new AssessMod();
-		TestKlass.difference();
+		TestClass.difference();
 		am2.profile();
 		
 	}
