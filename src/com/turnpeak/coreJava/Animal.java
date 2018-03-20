@@ -1,6 +1,6 @@
-package com.sageit.string;
+package com.turnpeak.coreJava;
 
-public class Animal implements Mammal
+public class Animal implements Interface
 {
 
 	@Override

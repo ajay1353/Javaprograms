@@ -1,7 +1,4 @@
-package com.wareenPkwy;
-
-import com.turnpeak.ups.PrimeNumber;
-
+package com.turnpeak.coreJava;
 
 public class CheckPrimeNumber extends PrimeNumber
 {
@@ -26,7 +23,7 @@ public class CheckPrimeNumber extends PrimeNumber
 
 	public static void main(final String[] args)
 	{
-		CheckPrimeNumber cpn = new CheckPrimeNumber();
+		final CheckPrimeNumber cpn = new CheckPrimeNumber();
 		cpn.CheckPrime();
 	}
 }

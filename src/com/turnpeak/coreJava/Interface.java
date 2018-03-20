@@ -1,6 +1,6 @@
-package com.sageit.string;
+package com.turnpeak.coreJava;
 
-public interface Mammal
+public interface Interface
 {
 	public void eat();
 

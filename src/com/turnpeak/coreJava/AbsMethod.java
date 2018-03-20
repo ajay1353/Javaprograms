@@ -1,6 +1,6 @@
-package com.turnpeak.ups;
+package com.turnpeak.coreJava;
 
-public abstract class DuplicateNumInArray
+public abstract class AbsMethod
 {
 	public abstract int sum(int a, int b);
 

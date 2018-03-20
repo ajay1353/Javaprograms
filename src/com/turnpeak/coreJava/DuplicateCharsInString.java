@@ -1,9 +1,6 @@
-package com.turnpeak.ups;
+package com.turnpeak.coreJava;
 
-
-
-
-public class DuplicateCharsInString extends DuplicateNumInArray
+public class DuplicateCharsInString extends AbsMethod
 {
 
 	@Override
